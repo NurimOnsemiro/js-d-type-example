@@ -1,0 +1,19 @@
+{
+  "name": "js-d-type-example",
+  "version": "1.0.0",
+  "description": "자바스크립트에서 .d.ts 파일을 적용한 예제입니다.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NurimOnsemiro/js-d-type-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NurimOnsemiro/js-d-type-example/issues"
+  },
+  "homepage": "https://github.com/NurimOnsemiro/js-d-type-example#readme"
+}
